@@ -1,0 +1,50 @@
+Brigadeiro,1.00,2.00
+Beijinho,1.00,2.00
+Pavê,1.00,2.00
+Quindim,1.00,2.00
+Pudim de Leite Condensado,1.00,2.00
+Bolo de Chocolate,1.00,2.00
+Pavê,1.00,2.00
+Bolo de Milho,1.00,2.00
+Bolo de Fubá,1.00,2.00
+Canjica,1.00,2.00
+Pé de Moleque,1.00,2.00
+Arroz Doce,1.00,2.00
+Pavê,1.00,2.00
+Manjar Branco,1.00,2.00
+Bolo de Cenoura com Cobertura de Chocolate,1.00,2.00
+Bolo de Nozes,1.00,2.00
+Bolo de Laranja,1.00,2.00
+Torta de Limão,1.00,2.00
+Torta de Morango,1.00,2.00
+Torta Holandesa,1.00,2.00
+Pudim de Tapioca,1.00,2.00
+Pavê,1.00,2.00
+Mousse de Maracujá,1.00,2.00
+Mousse de Chocolate,1.00,2.00
+Pavê,1.00,2.00
+Romeu e Julieta (Goiabada com Queijo),1.00,2.00
+Doce de Leite,1.00,2.00
+Bombocado,1.00,2.00
+Pastel de Belém,1.00,2.00
+Cajuzinho,1.00,2.00
+Sorvete de Açaí,1.00,2.00
+Sorvete de Cupuaçu,1.00,2.00
+Sorvete de Graviola,1.00,2.00
+Sorvete de Tapioca,1.00,2.00
+Sorvete de Creme,1.00,2.00
+Torta de Maçã,1.00,2.00
+Banana Split,1.00,2.00
+Cocada Cremosa,1.00,2.00
+Quindim de Abacaxi,1.00,2.00
+Pamonha,1.00,2.00
+Curau,1.00,2.00
+Maria-mole,1.00,2.00
+Bebinca,1.00,2.00
+Bolo de Rolo,1.00,2.00
+Pavê,1.00,2.00
+Sorvete de Cajá,1.00,2.00
+Sorvete de Manga,1.00,2.00
+Cuscuz Doce,1.00,2.00
+Torta de Ameixa,1.00,2.00
+Bolo Gelado,1.00,2.00

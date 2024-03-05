@@ -1,0 +1,32 @@
+Script de Testes - Consumer 
+
+1- Caminho do pytesseract 
+2- txt dos produtos pra cadastro 
+3- abrir o mouseinfo
+
+Teste 01 -> Validação de Login e Senha 
+Automação - Escolher ADMIN - Digitar Senha - Clicar no botão entrar - Entrou no sistema -> 'Teste Passed'
+
+Teste 1.1 -> Validação de Login e Senha Incorreta
+Automação - Clicar ADMIN - Digitar Senha Incorreta - Reconhecer mensagem de Erro -> 'Teste Passed'
+
+Teste 02 -> Validar o click em mesa e fazer pedido
+Automação - Clicar em mesa - fazer pedido - 
+digitar um pedido - clicar em salvar pedido 
+Método BDD 
+
+Given: que clique em Mesas/Comandas;
+And: Selecione a mesa desejada
+When: quando 'Buscar produto escrito';
+Then: então gera-se um pedido.
+
+
+Teste 03 -> Abir / Fechar caixa
+Automação - Clicar em abrir/fechar caixa - tentar fechar caixa sem registrar um valor - Reconhecer mensagem de erro -> 'Teste Passed'
+
+Teste 3.1 - Fechar Caixa caminho feliz
+Automação - Digitar valor - clicar em salvar - 'Teste Passed' 
+
+Teste 04 - Cadastro de Produtos 
+Automação - Clicar em produtos - novo - digitar características - salvar -> 'Teste Passed' 
+Automação - Salvar produtos iguais - aparecer mensagem de produto já cadastrado - reconhecer mensagem - clicar em confirmar - fechar a tela - retorno de looping 'Teste Passed'
